@@ -1,0 +1,8 @@
+name: ssn
+dependencies:
+  - rise
+  - scikit-learn
+  - seaborn
+  - numpy
+  - matplotlib
+  - pandas
